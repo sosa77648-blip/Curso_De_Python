@@ -6,7 +6,7 @@ dalto_curso = 1.5
 
 #Duracion de crudos
 crudo_promedio = 5
-crudo_dalto = 3.5
+crudo_dalto = 4
 
 #Diferencias de duraciòn
 
